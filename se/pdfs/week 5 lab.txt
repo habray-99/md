@@ -1,0 +1,3 @@
+1.	Explain the 4P’s of effective Software Project Management.
+2.	What are the major responsibilities of Project manager leading a software development project?
+3.	Prepare a Gantt chart in paper taking 6 months based on waterfall methodology.
