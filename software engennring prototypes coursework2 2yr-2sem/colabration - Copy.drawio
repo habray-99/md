@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-04-25T03:19:17.471Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="F8mqkSvMquSxY3fFsJxY" version="21.2.1" type="device">
+  <diagram name="Page-1" id="S630wCEyoWQ46y2PHja7">
+    <mxGraphModel dx="1400" dy="311" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LDzL4E1aroRcOsLplv2G-18" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="350" y="705" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LDzL4E1aroRcOsLplv2G-30" value="JoinTrainingCourseUI" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="730" y="710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDzL4E1aroRcOsLplv2G-31" value=":JoinTrainingCourse" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="1210" y="710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDzL4E1aroRcOsLplv2G-32" value=":Card" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="931" y="1050" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDzL4E1aroRcOsLplv2G-33" value="Courses" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="1210" y="1050" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LDzL4E1aroRcOsLplv2G-57" value="Trainee" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="1466" y="1050" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMceAK3hrMyFHbqTOK-o-1" value="JoinTrainingCourseUI" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="730" y="710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMceAK3hrMyFHbqTOK-o-2" value=":JoinTrainingCourse" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="1210" y="710" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="IMceAK3hrMyFHbqTOK-o-3" value="Payment" style="html=1;whiteSpace=wrap;strokeWidth=2;fontSize=13;fontStyle=4" parent="1" vertex="1">
+          <mxGeometry x="931" y="1050" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

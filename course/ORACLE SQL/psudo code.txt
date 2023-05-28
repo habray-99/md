@@ -1,0 +1,17 @@
+BEGIN JoinATrainingCourses
+
+    GET customer details
+
+    IF customer Details  is not valid
+        SEND  invalid error message 
+    ELSE
+        READ course details from course table
+        DISPLAY that courses details 
+
+        GET deposit details
+
+
+        SAVE customer details to trainees table 
+        SAVE payment details to  course payment details table
+    END IF
+END JoinATrainingCourses
